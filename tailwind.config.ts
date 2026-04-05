@@ -13,7 +13,7 @@ export default {
       },
     },
     extend: {
-      fontFamily: {
+      fontFamily: { 
         orbitron: ['Orbitron', 'sans-serif'], 
         rajdhani: ['Rajdhani', 'sans-serif'],
         mono: ['JetBrains Mono', 'monospace'],
