@@ -13,7 +13,7 @@ Este portfólio foi desenvolvido como um showcase profissional, combinando desig
 - **Design Neon Cyberpunk**: Interface visual única com efeitos de vidro (glassmorphism) e cores neon
 - **Performance Otimizada**: Animações suaves a 60fps em todos os dispositivos
 - **Responsividade Perfeita**: Pixel-perfect em mobile, tablet e desktop
-- **Acessibilidade**: Componentes semânticos e navegação por teclado 
+- **Acessibilidade**: Componentes semânticos e navegação por teclado                  
 - **SEO Otimizado**: Meta tags estruturadas e sitemap para melhor indexação
 
 ## 🎯 Seções do Portfólio
