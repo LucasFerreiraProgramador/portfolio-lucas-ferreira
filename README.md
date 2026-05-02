@@ -232,8 +232,8 @@ netlify deploy --prod --dir=dist
 
 ## 📝 Projetos em Destaque
 
-### Netflix Clone
-Clone funcional da Netflix com autenticação, carrosséis de filmes e modal de detalhes.
+### Maria atelier
+Site profissional de ateliê para aulas de pinturas com design responsivo.
 
 ### Dashboard Financeira
 Dashboard de gestão financeira com gráficos interativos e análise de dados.
